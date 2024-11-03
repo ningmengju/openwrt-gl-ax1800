@@ -30,7 +30,7 @@
 3. 下载源代码，更新 feeds 并选择配置
 
    ```bash
-   git clone https://github.com/KK2018gh/openwrt-gl-ax1800.git
+   git clone https://github.com/ningmengju/openwrt-gl-ax1800.git
    cd openwrt-gl-ax1800
    ./scripts/feeds update -a
    ./scripts/feeds install -a
